@@ -1,12 +1,11 @@
+//PREM KUMAR R - TEAM REFLOW
+//written for HAC-SAC 1.0 Round 2
+//Gesture based Interfaces for Vending Machines
+
 #include <SoftwareSerial.h> 
-
-SoftwareSerial MyBlue(0, 1);
-
-int flag = 0; 
 int trigPin = 7;
 int echoPin = 6;
 int var = 0;
-int one = 4;
 int two = 5;
 int three = A4;
 char junk;
