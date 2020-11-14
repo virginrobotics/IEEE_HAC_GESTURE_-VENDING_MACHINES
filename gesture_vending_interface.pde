@@ -1,3 +1,8 @@
+//PREM KUMAR R - TEAM REFLOW
+//written for HAC-SAC 1.0 Round 2
+//Gesture based Interfaces for Vending Machines
+
+
 import processing.serial.*;
 Serial myPort;
 String val;
